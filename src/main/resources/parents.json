@@ -1,0 +1,32 @@
+[
+  {
+    "nom": "Famille Ziani",
+    "latitude": 34.0050,
+    "longitude": -6.7950,
+    "penalites": 0
+  },
+  {
+    "nom": "Famille Alami",
+    "latitude": 34.0120,
+    "longitude": -6.7880,
+    "penalites": 0
+  },
+  {
+    "nom": "Famille Benjelloun",
+    "latitude": 34.0085,
+    "longitude": -6.8050,
+    "penalites": 0
+  },
+  {
+    "nom": "Famille Haddad",
+    "latitude": 34.0150,
+    "longitude": -6.8100,
+    "penalites": 0
+  },
+  {
+    "nom": "Famille Tazi",
+    "latitude": 34.0020,
+    "longitude": -6.7900,
+    "penalites": 0
+  }
+]
